@@ -17,7 +17,7 @@ neatly fits well on the plot.
 You most likely already have everything you need if you already use python. In 
 case you required anything to run `animation.py`, see below
 
-## Python & PIP 
+### Python & PIP 
 #### Install python + pip on Linux OS with apt:
 ```
 sudo apt install python3
@@ -37,7 +37,7 @@ python3 get-pip.py
 ```
 * Be sure to add pip to PATH, [explained here](https://phoenixnap.com/kb/install-pip-windows).
 
-## Install required packages
+### Install required packages
 
 One pip is installed: `numpy`, `tkinter`, and `matplotlib` are all required to run the code
 
