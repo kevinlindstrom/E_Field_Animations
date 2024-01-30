@@ -39,7 +39,7 @@ python3 get-pip.py
 
 ## Install required packages
 
-One pip is installed: numpy, tkinter, and matplotlib are all required to run the code
+One pip is installed: `numpy`, `tkinter`, and `matplotlib` are all required to run the code
 
 ```
 pip3 install numpy
