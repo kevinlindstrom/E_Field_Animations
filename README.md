@@ -1,11 +1,12 @@
 # E_Field_Animations
 The `animate.py` file creates a tkinter window that simulates the summation of 
 all of the $d\vec{\mathbf{E}}$ fields to highlight how the symmetry of the 
-problem causes the net $\vec{\mathbf{E}}$ field to only be in $y$. A button to 
-show the graphs of the $dE_x$ and $dE_y$ fields is shown on the plot, and must 
-be clicked after a full sweep to have all of the data.
+problem causes the net $\vec{\mathbf{E}}$ field to only be in the 
+$\pm\hat{\mathbf{y}}$ directions. There are multiple buttons that affect the 
+simulation, some changes need the sweep to repeat to go into effect.
+The total fields change over the first sweep until they rest at their net values.
 
-Given the choice of the window size, the field in $x$ may not fully go to zero 
+Given the choice of the window size, the field in the $\pm\hat{\mathbf{x}}$ directions may not fully go to zero 
 if the coordinates swept over are not symmetric about the $y$ axis (I hope to 
 fix this shortly).
 
@@ -15,7 +16,7 @@ neatly fits well on the plot.
 
 ## Installation Instructions:
 You most likely already have everything you need if you already use python. In 
-case you required anything to run `animation.py`, see below
+case you require anything to run `animation.py`, see below
 
 ### Python & PIP 
 #### Install python + pip on Linux OS with apt:
