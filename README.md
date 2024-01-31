@@ -5,6 +5,8 @@ problem causes the net $\vec{\mathbf{E}}$ field to only be in the
 $\pm\hat{\mathbf{y}}$ directions. There are multiple buttons that affect the 
 simulation, some changes need the sweep to repeat to go into effect.
 The total fields change over the first sweep until they rest at their net values.
+A stand-alone executable `animate.exe` runs the simulation without the need
+to install anything!
 
 Given the choice of the window size, the field in the $\pm\hat{\mathbf{x}}$ directions may not fully go to zero 
 if the coordinates swept over are not symmetric about the $y$ axis (I hope to 
